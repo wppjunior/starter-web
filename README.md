@@ -10,5 +10,6 @@ Remote change
 Sample website with plenty of files for demos. 
 
 ## Deployment
+This is how you have to deploy
 
 ## Final
